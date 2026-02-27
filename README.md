@@ -58,8 +58,8 @@ Mentalidade:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kilderyrodri12&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilderyrodri12&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kilderyrodri12&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kilderyrodri12&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
